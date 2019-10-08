@@ -1,0 +1,19 @@
+{
+  "name": "localeify",
+  "version": "0.0.1",
+  "description": "Ergonomic localization support for your front-end applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrios/localeify.git"
+  },
+  "author": "David Rios <david.rios.gomes@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/davidrios/localeify/issues"
+  },
+  "homepage": "https://github.com/davidrios/localeify#readme"
+}
